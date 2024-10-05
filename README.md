@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joinney&label=Profile%20views&color=0e75b6&style=flat" alt="joinney" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/Joinney/myself/blob/main/teopc.png">
+<img align="right" alt="Coding" width="400" src="[https://github.com/Joinney/myself/blob/main/teopc.png](https://github.com/Joinney/Joinney/blob/main/teopc.gif)">
 
 - 👨‍💻 Tất cả các dự án của tôi đều có tại [https://joinney.github.io/web-cv/](https://joinney.github.io/web-cv/)
 
