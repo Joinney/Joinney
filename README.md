@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Xin+chào!+👋;+Tôi+là+Kevin+Vo!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Xin+chào!+👋;+Tôi+là+Kelvin+Vo!;" />
 </h1>
 
 <h3 align="center">Một lập trình viên đầy nhiệt huyết đến từ Việt Nam</h3>
