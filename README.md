@@ -14,7 +14,7 @@
 
 <br>
 
-- 👨‍💻 Tất cả các dự án của tôi đều có tại [Website cá nhân](https://joinney.github.io/web-cv/)
+- 👨‍💻 Tất cả các dự án của tôi đều có tại [Website cá nhân](https://teobuildingcode.netlify.app/)
 
 - 📫 Cách liên hệ với tôi: **<a href="mailto:Voduyduydlk@gmail.com">Voduyduydlk@gmail.com</a>**
 
