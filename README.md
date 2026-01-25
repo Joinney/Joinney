@@ -1,90 +1,62 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0e75b6&height=200&section=header&text=Kelvin%20Vo&fontSize=70&animation=fadeIn&fontAlignY=35" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Xin+chào!+👋;+Tôi+là+Kelvin+Vo!;" />
+</h1>
+
+<h3 align="center">Một lập trình viên đầy nhiệt huyết đến từ Việt Nam</h3>
+
+
+  <img src="https://komarev.com/ghpvc/?username=joinney&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
+
+
+ <img align="right" alt="Coding" width="400" src="https://github.com/Joinney/Joinney/blob/main/teopc.png" >
+
+
+<br>
+
+- 👨‍💻 Tất cả các dự án của tôi đều có tại [Website cá nhân](https://teobuildingcode.netlify.app/)
+
+- 📫 Cách liên hệ với tôi: **<a href="mailto:Voduyduydlk@gmail.com">Voduyduydlk@gmail.com</a>**
+
+<br>
+
+<h3 align="left">Kết nối với tôi:</h3>
+<p align="left">
+  <a href="https://linkedin.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40" style="margin-right: 10px;" /></a>
+  <a href="https://github.com/joinney" target="_blank"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40" style="margin-right: 10px;" /></a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Xin+chào!+👋;+Tôi+là+Kelvin+Vo!;+Software+Engineer;+Music+Producer+-+Vdter;" />
+<h3 align="left">Ngôn ngữ và Công cụ:</h3>
+<p align="left">
+  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
+  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
+  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Full--stack%20Development-blue?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Main%20Project-Teo%20Building%20Code-orange?style=for-the-badge&logoColor=white" />
-</p>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+</div>
+<div align="center">
+  <h2>📊 Thống kê GitHub của tôi</h2>
+  
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joinney&show_icons=true&locale=vi&layout=compact" alt="Top Languages" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+    
+    
+  </div>
+    <img src="https://github-readme-stats.vercel.app/api?username=joinney&show_icons=true&locale=vi" alt="GitHub Stats" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+  <br>
 
----
-
-### ⚡ Quick Overview
-
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=joinney&repo=Joinney&theme=transparent&title_color=0e75b6&text_color=ffffff&icon_color=0e75b6" alt="Featured Repo" />
-      <br/>
-      <blockquote>
-        🚀 <b>Lập trình viên đam mê IoT & Web</b><br/>
-        🎹 <b>Nghệ sĩ Piano/Guitar (Vdter)</b><br/>
-        🇻🇳 <b>Đến từ Buôn Ma Thuột, Việt Nam</b>
-      </blockquote>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github.com/Joinney/Joinney/blob/main/teopc.png?raw=true" width="300" style="border-radius: 20px; box-shadow: 0 10px 20px rgba(0,0,0,0.5);" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠 Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,py,java,cpp,mysql,git,figma,arduino,androidstudio&perline=7" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Hardware-ESP32%20%7C%20Sensors%20%7C%20Relays-green?style=flat-square&logo=espressif" />
-  <img src="https://img.shields.io/badge/AI-Face%20Recognition%20%7C%20CV-red?style=flat-square&logo=opencv" />
-</p>
-
----
-
-### 📊 GitHub Activity Snapshot
-
-<p align="center">
-  <img src="https://github-readme-stats-one-eight.vercel.app/api?username=joinney&show_icons=true&theme=vision-friendly-dark&locale=vi&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats-one-eight.vercel.app/api/top-langs/?username=joinney&layout=compact&theme=vision-friendly-dark&locale=vi&hide_border=true&bg_color=0D1117" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joinney&theme=vision-friendly-dark&hide_border=true&background=0D1117" width="97%" />
-</p>
-
----
-
-### 🎵 Chill with Vdter (Music & Code)
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <p><b>My Personal Website</b></p>
-      <a href="https://teobuildingcode.netlify.app/">
-        <img src="https://img.shields.io/badge/Visit%20Site-Teo%20Building%20Code-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" />
-      </a>
-    </td>
-    <td align="center">
-      <p><b>Connect with me</b></p>
-      <a href="mailto:Voduyduydlk@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-      <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🐍 The Contribution Journey
-<p align="center">
-  <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" alt="Snake" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" />
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joinney&" alt="Streak Stats" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+</div>
+ 
