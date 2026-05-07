@@ -1,62 +1,82 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Xin+chào!+👋;+Tôi+là+Kelvin+Vo!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Xin+chào!+👋;+Tôi+là+Demi+Vo!;" />
 </h1>
 
-<h3 align="center">Một lập trình viên đầy nhiệt huyết đến từ Việt Nam</h3>
-
-
-  <img src="https://komarev.com/ghpvc/?username=joinney&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-
-
-
- <img align="right" alt="Coding" width="400" src="https://github.com/Joinney/Joinney/blob/main/teopc.png" >
-
-
-<br>
-
-- 👨‍💻 Tất cả các dự án của tôi đều có tại [Website cá nhân](https://teobuildingcode.netlify.app/)
-
-- 📫 Cách liên hệ với tôi: **<a href="mailto:Voduyduydlk@gmail.com">Voduyduydlk@gmail.com</a>**
-
-<br>
-
-<h3 align="left">Kết nối với tôi:</h3>
-<p align="left">
-  <a href="https://linkedin.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40" style="margin-right: 10px;" /></a>
-  <a href="https://github.com/joinney" target="_blank"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40" style="margin-right: 10px;" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=joinney&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
 </p>
 
-<h3 align="left">Ngôn ngữ và Công cụ:</h3>
+<h3 align="center">🚀 Software Engineering Student | Passionate Developer from Vietnam</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=joinney&repo=DemiMart&theme=tokyonight" alt="Featured Project" />
+</div>
+
+<br />
+
+---
+
+### 💫 Về tôi
+
+<img align="right" alt="Coding" width="380" src="https://github.com/Joinney/Joinney/blob/main/teopc.png" >
+
+- 🎓 **Sinh viên năm cuối** chuyên ngành Kỹ thuật Phần mềm tại NTTU.
+- 💻 Đang thực tập tại **ETECHS**, tập trung vào hệ thống truy xuất nguồn gốc nông nghiệp.
+- 🛠️ Thế mạnh: **Full-stack Development** (React, Node.js, .NET) và **UI/UX Design**.
+- 🔭 Đang phát triển dự án: [**Demi Mart**](https://teobuildingcode.netlify.app/) - Nền tảng thương mại điện tử hiện đại.
+- 📫 Kết nối nhanh: **[Voduyduydlk@gmail.com](mailto:Voduyduydlk@gmail.com)**
+
+<br />
+
+### 🛠️ Ngôn ngữ và Công cụ
+
 <p align="left">
-  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
-  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <br />
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-</div>
-<div align="center">
-  <h2>📊 Thống kê GitHub của tôi</h2>
-  
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joinney&show_icons=true&locale=vi&layout=compact" alt="Top Languages" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
-    
-    
-  </div>
-    <img src="https://github-readme-stats.vercel.app/api?username=joinney&show_icons=true&locale=vi" alt="GitHub Stats" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
-  <br>
+---
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joinney&" alt="Streak Stats" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+### 📊 Thống kê GitHub
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=joinney&show_icons=true&theme=tokyonight&locale=vi" alt="GitHub Stats" height="180" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joinney&layout=compact&theme=tokyonight&locale=vi" alt="Top Languages" height="180" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joinney&theme=tokyonight" alt="Streak Stats" />
 </div>
- 
+
+<br />
+
+<div align="center">
+  <h2>🐍 Contributions Activity 🐍</h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+</div>
+
+<br />
+
+<p align="center">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/joinney" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
