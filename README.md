@@ -17,8 +17,7 @@
 <img align="right" alt="Coding" width="350" src="https://github.com/Joinney/Joinney/blob/main/teopc.png" >
 
 - 🎓 **Sinh viên năm cuối** chuyên ngành Kỹ thuật Phần mềm tại **Nguyễn Tất Thành University (NTTU)**.
-- 💻 Hiện là Thực tập sinh tại **ETECHS**, tham gia phát triển hệ thống Inventory & Traceability.
-- 🛠️ Đang xây dựng dự án [**Demi Mart**](https://teobuildingcode.netlify.app/) sử dụng React, Node.js và PostgreSQL.
+- 🛠️ Đang xây dựng dự án [**Demi Mart**](https://demimart-fe.onrender.com/) sử dụng React, Node.js và PostgreSQL.
 - 🎯 Mục tiêu: Trở thành một kỹ sư phần mềm toàn diện, có khả năng kết hợp giữa phần cứng (IoT) và phần mềm (Web/App).
 - 📫 Liên hệ: **[Voduyduydlk@gmail.com](mailto:Voduyduydlk@gmail.com)**
 
