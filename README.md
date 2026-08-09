@@ -16,7 +16,7 @@
 
   <!-- Tech Stack Custom Banner Image -->
   <a href="https://github.com/joinney">
-    <img src="https://github.com/Joinney/Joinney/blob/main/inf.png" width="100%" alt="Tech Stack Banner" />
+    <img src="https://github.com/Joinney/Joinney/blob/main/infor.png" width="100%" alt="Tech Stack Banner" />
   </a>
 
   <br /><br />
