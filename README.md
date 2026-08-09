@@ -10,12 +10,9 @@
     <img src="https://komarev.com/ghpvc/?username=joinney&label=Visitors&color=0e75b6&style=flat-square" alt="Visitors" />
   </p>
 
-  <!-- 2. Cyberpunk Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:010409&height=220&section=header&text=JOINNEY%20VO&fontSize=60&fontAlignY=38&animation=fadeIn&desc=💻%20SOFTWARE%20ENGINEER%20|%20📡%20IoT%20EXPERT%20|%20⚡%20FULL-STACK&descAlignY=65&descScale=18&fontColor=00F0FF" width="100%" alt="3D Neon Header" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,100:161b22&height=200&section=header&text=JOINNEY%20VO&fontSize=50&fontAlignY=40&animation=fadeIn&desc=🚀%20SOFTWARE%20ENGINEER%20%E2%80%A2%20IoT%20%E2%80%A2%20FULL-STACK&descAlignY=65&descScale=16&fontColor=00F0FF" width="100%" alt="Header Slice" />
 
-  <br /><br />
-
-  <!-- 3. Tech Stack Custom Banner Image (Đã đưa xuống dưới) -->
+  <!-- 3. Tech Stack Custom Banner Image -->
   <a href="https://github.com/joinney">
     <img src="https://raw.githubusercontent.com/Joinney/Joinney/main/inf.png" width="100%" alt="Tech Stack Banner" />
   </a>
@@ -27,7 +24,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=16&duration=2500&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&height=40&lines=System.init(%22Architecting+IoT+%2B+Web+Ecosystems%22);%20Building+Demi+Mart+Platform...;%20Connecting+Sensors+to+Cloud+Nodes..." alt="Retro Arcade Typing" />
   </a>
 
-  <!-- Contact Badges -->
+  <!-- Floating Social Badges -->
   <p align="center">
     <a href="mailto:Voduyduydlk@gmail.com">
       <img src="https://img.shields.io/badge/GMAIL-E10000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -40,6 +37,16 @@
     </a>
   </p>
 
+</div>
+
+---
+
+### 🏆 3D GitHub Trophies & Achievements
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=joinney&theme=cyberpunk&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=true" width="100%" alt="GitHub Trophies" />
+  </a>
 </div>
 
 ---
@@ -68,7 +75,48 @@
 
 ---
 
-### 💠 Isometric 3D Skill Modules
+### 🚀 Featured Project Matrix
+
+<div align="center">
+  <a href="https://demimart-fe.onrender.com/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joinney&repo=demimart&theme=cyberpunk&hide_border=true" width="80%" alt="Demi Mart Showcase" />
+  </a>
+</div>
+
+---
+
+### 💠 Skill Level Indicators
+
+<div align="center">
+  <table border="0" width="90%">
+    <tr>
+      <td width="50%">
+        <b>Full-Stack Web Development</b>
+        <br />
+        <img src="https://geps.dev/progress/85?dangerColor=00f0ff&warningColor=00ff9d&color=00f0ff" alt="Web Dev Progress" width="100%" />
+      </td>
+      <td width="50%">
+        <b>IoT & Embedded Systems</b>
+        <br />
+        <img src="https://geps.dev/progress/80?dangerColor=00f0ff&warningColor=00ff9d&color=00f0ff" alt="IoT Progress" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <b>Database & Backend Architecture</b>
+        <br />
+        <img src="https://geps.dev/progress/75?dangerColor=00f0ff&warningColor=00ff9d&color=00f0ff" alt="Backend Progress" width="100%" />
+      </td>
+      <td width="50%">
+        <b>DevOps, Git & Cloud Tools</b>
+        <br />
+        <img src="https://geps.dev/progress/70?dangerColor=00f0ff&warningColor=00ff9d&color=00f0ff" alt="DevOps Progress" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br />
 
 <div align="center">
 
