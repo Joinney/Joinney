@@ -10,7 +10,7 @@
   </p>
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,100:161b22&height=200&section=header&text=JOINNEY%20VO&fontSize=50&fontAlignY=40&animation=fadeIn&desc=🚀%20SOFTWARE%20ENGINEER%20%E2%80%A2%20IoT%20%E2%80%A2%20FULL-STACK&descAlignY=65&descScale=16&fontColor=00F0FF" width="100%" alt="Header Slice" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,100:161b22&height=200&section=header&text=JOINNEY%20VO&fontSize=50&fontAlignY=40&animation=fadeIn&desc=%20SOFTWARE%20ENGINEER%20%E2%80%A2%20IoT%20%E2%80%A2%20FULL-STACK&descAlignY=65&descScale=16&fontColor=00F0FF" width="100%" alt="Header Slice" />
 
   <br />
 
