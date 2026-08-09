@@ -1,20 +1,22 @@
 <div align="center">
 
-  <!-- 1. Top Status & Metric Badges -->
+  <!-- 1. Fixed Metric Badges -->
   <p align="center">
-    <img src="https://img.shields.io/badge/status-updating-brightgreen?style=flat-square&logo=github" alt="Status" />
+    <img src="https://img.shields.io/badge/status-active-00ff9d?style=flat-square&logo=github" alt="Status" />
     <img src="https://img.shields.io/badge/Python-3.10-ff69b4?style=flat-square&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/contributors-2-007ec6?style=flat-square" alt="Contributors" />
-    <img src="https://img.shields.io/github/stars/joinney?style=flat-square&color=0550ae" alt="Stars" />
-    <img src="https://img.shields.io/github/forks/joinney?style=flat-square&color=0550ae" alt="Forks" />
+    <img src="https://img.shields.io/badge/Developer-Full--stack-00f0ff?style=flat-square" alt="Role" />
+    <img src="https://img.shields.io/badge/Domain-IoT%20%26%20Web-7000ff?style=flat-square" alt="Domain" />
     <img src="https://komarev.com/ghpvc/?username=joinney&label=Visitors&color=0e75b6&style=flat-square" alt="Visitors" />
   </p>
 
+  <!-- Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,100:161b22&height=200&section=header&text=JOINNEY%20VO&fontSize=50&fontAlignY=40&animation=fadeIn&desc=🚀%20SOFTWARE%20ENGINEER%20%E2%80%A2%20IoT%20%E2%80%A2%20FULL-STACK&descAlignY=65&descScale=16&fontColor=00F0FF" width="100%" alt="Header Slice" />
 
-  <!-- 3. Tech Stack Custom Banner Image -->
+  <br />
+
+  <!-- Tech Stack Custom Banner Image -->
   <a href="https://github.com/joinney">
-    <img src="https://raw.githubusercontent.com/Joinney/Joinney/main/inf.png" width="100%" alt="Tech Stack Banner" />
+    <img src="https://github.com/Joinney/Joinney/blob/main/inf.png" width="100%" alt="Tech Stack Banner" />
   </a>
 
   <br /><br />
@@ -23,6 +25,8 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=16&duration=2500&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&height=40&lines=System.init(%22Architecting+IoT+%2B+Web+Ecosystems%22);%20Building+Demi+Mart+Platform...;%20Connecting+Sensors+to+Cloud+Nodes..." alt="Retro Arcade Typing" />
   </a>
+
+  <br /><br />
 
   <!-- Floating Social Badges -->
   <p align="center">
@@ -44,9 +48,11 @@
 ### 🏆 3D GitHub Trophies & Achievements
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=joinney&theme=cyberpunk&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=true" width="100%" alt="GitHub Trophies" />
-  </a>
+  <p align="center">
+    <img src="https://img.shields.io/badge/🏆_GitHub_Rank-Master_Developer-00F0FF?style=for-the-badge&logo=github&logoColor=white" alt="Rank" />
+    <img src="https://img.shields.io/badge/⭐_Achievements-Code_Ninja_|_IoT_Architect-7000FF?style=for-the-badge" alt="Achievements" />
+    <img src="https://img.shields.io/badge/🚀_Status-Building_Ecosystems-00FF9D?style=for-the-badge" alt="Status" />
+  </p>
 </div>
 
 ---
@@ -66,21 +72,11 @@
         </ul>
       </td>
       <td width="45%" align="center">
-        <!-- 3D Contribution Hologram Graph -->
+        <!-- Activity Wave Graph -->
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=joinney&theme=rogue&hide_border=true&area=true" width="100%" alt="Activity Wave 3D" />
       </td>
     </tr>
   </table>
-</div>
-
----
-
-### 🚀 Featured Project Matrix
-
-<div align="center">
-  <a href="https://demimart-fe.onrender.com/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=joinney&repo=demimart&theme=cyberpunk&hide_border=true" width="80%" alt="Demi Mart Showcase" />
-  </a>
 </div>
 
 ---
@@ -155,20 +151,9 @@
 ### 💎 Glassmorphism Cyber Analytics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=joinney&show_icons=true&theme=cyberpunk&hide_border=true&count_private=true" width="100%" alt="GitHub Cyber Stats" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joinney&layout=compact&theme=cyberpunk&hide_border=true&langs_count=8" width="100%" alt="Top Cyber Languages" />
-      </td>
-    </tr>
-  </table>
-
-  <br />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joinney&theme=cyberpunk&hide_border=true" width="96%" alt="Streak Cyber Stats" />
+  <a href="https://github.com/joinney">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=joinney&theme=react-dark&hide_border=true&area=true" width="95%" alt="Cyber Analytics Graph" />
+  </a>
 </div>
 
 ---
