@@ -1,96 +1,138 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Xin+chào!+👋;+Tôi+là+joinney+Vo!;" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joinney&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
-</p>
+  <!-- 1. Top Status & Metric Badges -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/status-updating-brightgreen?style=flat-square&logo=github" alt="Status" />
+    <img src="https://img.shields.io/badge/Python-3.10-ff69b4?style=flat-square&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/contributors-2-007ec6?style=flat-square" alt="Contributors" />
+    <img src="https://img.shields.io/github/stars/joinney?style=flat-square&color=0550ae" alt="Stars" />
+    <img src="https://img.shields.io/github/forks/joinney?style=flat-square&color=0550ae" alt="Forks" />
+    <img src="https://komarev.com/ghpvc/?username=joinney&label=Visitors&color=0e75b6&style=flat-square" alt="Visitors" />
+  </p>
 
-<h3 align="center">🚀 Software Engineering Student | IoT Enthusiast | Full-stack Developer</h3>
+  <!-- 2. Cyberpunk Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:010409&height=220&section=header&text=JOINNEY%20VO&fontSize=60&fontAlignY=38&animation=fadeIn&desc=💻%20SOFTWARE%20ENGINEER%20|%20📡%20IoT%20EXPERT%20|%20⚡%20FULL-STACK&descAlignY=65&descScale=18&fontColor=00F0FF" width="100%" alt="3D Neon Header" />
 
-<br />
+  <br /><br />
 
----
+  <!-- 3. Tech Stack Custom Banner Image (Đã đưa xuống dưới) -->
+  <a href="https://github.com/joinney">
+    <img src="https://raw.githubusercontent.com/Joinney/Joinney/main/inf.png" width="100%" alt="Tech Stack Banner" />
+  </a>
 
-### 💫 Về tôi
+  <br /><br />
 
-<img align="right" alt="Coding" width="350" src="https://github.com/Joinney/Joinney/blob/main/teopc.png" >
+  <!-- Animated Typing SVG -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=16&duration=2500&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&height=40&lines=System.init(%22Architecting+IoT+%2B+Web+Ecosystems%22);%20Building+Demi+Mart+Platform...;%20Connecting+Sensors+to+Cloud+Nodes..." alt="Retro Arcade Typing" />
+  </a>
 
-- 🎓 **Sinh viên năm cuối** chuyên ngành Kỹ thuật Phần mềm tại **Nguyễn Tất Thành University (NTTU)**.
-- 🛠️ Đang xây dựng dự án [**Demi Mart**](https://demimart-fe.onrender.com/) sử dụng React, Node.js và PostgreSQL.
-- 🎯 Mục tiêu: Trở thành một kỹ sư phần mềm toàn diện, có khả năng kết hợp giữa phần cứng (IoT) và phần mềm (Web/App).
-- 📫 Liên hệ: **[Voduyduydlk@gmail.com](mailto:Voduyduydlk@gmail.com)**
+  <!-- Contact Badges -->
+  <p align="center">
+    <a href="mailto:Voduyduydlk@gmail.com">
+      <img src="https://img.shields.io/badge/GMAIL-E10000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <a href="https://github.com/joinney">
+      <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=00f0ff" alt="GitHub" />
+    </a>
+    <a href="https://linkedin.com">
+      <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
 
-<br />
-
-### 🛠️ Kỹ năng & Công cụ
-
-#### 📡 IoT & Embedded Systems
-<p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-</p>
-
-#### 🌐 Web Development (Full-stack)
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-#### 🗄️ Database & DevOps
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
-#### 🎨 Design & Others
-<p align="left">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
-</p>
+</div>
 
 ---
 
-### 📊 Thống kê GitHub
+### 🧬 Hologram Core & Profile Node
+
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0" width="100%">
+    <tr>
+      <td width="55%" valign="top">
+        <br/>
+        <ul>
+          <li>🎓 <b>Học Vấn:</b> Sinh viên năm cuối ngành <b>Kỹ thuật Phần mềm</b> tại <i>Nguyễn Tất Thành University (NTTU)</i>.</li>
+          <li>🛠️ <b>Dự Án Trọng Tâm:</b> Hệ thống thương mại điện tử <a href="https://demimart-fe.onrender.com/"><b>Demi Mart</b></a> (React, Node.js, PostgreSQL).</li>
+          <li>⚡ <b>Sứ Mệnh:</b> Xây dựng các giải pháp nhúng IoT mượt mà kết hợp Cloud Architecture.</li>
+          <li>📫 <b>Kênh Kết Nối:</b> <code>Voduyduydlk@gmail.com</code></li>
+        </ul>
+      </td>
+      <td width="45%" align="center">
+        <!-- 3D Contribution Hologram Graph -->
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=joinney&theme=rogue&hide_border=true&area=true" width="100%" alt="Activity Wave 3D" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 💠 Isometric 3D Skill Modules
+
+<div align="center">
+
+  #### 📡 IoT & Microcontrollers
+  <p>
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </p>
+
+  #### 🌐 Full-Stack Web Development
+  <p>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  </p>
+
+  #### 🗄️ Database, DevOps & Tools
+  <p>
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  </p>
+
+</div>
+
+---
+
+### 💎 Glassmorphism Cyber Analytics
 
 <div align="center">
   <table border="0">
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=joinney&show_icons=true&theme=tokyonight&locale=vi" alt="GitHub Stats" height="180" />
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=joinney&show_icons=true&theme=cyberpunk&hide_border=true&count_private=true" width="100%" alt="GitHub Cyber Stats" />
       </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joinney&layout=compact&theme=tokyonight&locale=vi" alt="Top Languages" height="180" />
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joinney&layout=compact&theme=cyberpunk&hide_border=true&langs_count=8" width="100%" alt="Top Cyber Languages" />
       </td>
     </tr>
   </table>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joinney&theme=tokyonight" alt="Streak Stats" />
+
+  <br />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joinney&theme=cyberpunk&hide_border=true" width="96%" alt="Streak Cyber Stats" />
+</div>
+
+---
+
+### 🐍 3D Particle Snake Simulation
+
+<div align="center">
+  <img alt="Snake Animation Grid" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" width="100%" />
 </div>
 
 <br />
 
 <div align="center">
-  <h2>🐍 My Coding Journey 🐍</h2>
-  <img alt="snake" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00f0ff&height=100&section=footer" width="100%" alt="Cyber Footer Wave" />
 </div>
-
-<br />
-
-<p align="center">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/joinney" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
